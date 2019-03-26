@@ -2,6 +2,11 @@ body {
 	font-family: 'Noto Sans TC', sans-serif;
 }
 h1{font-family: 'Noto Sans TC', sans-serif;}
+h2{font-family: 'Noto Sans TC', sans-serif;}
+h3{font-family: 'Noto Sans TC', sans-serif;}
+h4{font-family: 'Noto Sans TC', sans-serif;}
+h5{font-family: 'Noto Sans TC', sans-serif;}
+h6{font-family: 'Noto Sans TC', sans-serif;}
 .bg-primary {
 background-color: #0700d6 !important;
 background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
@@ -17,3 +22,7 @@ a {
 
 a:hover, a:focus, a:active {
   color: #824027;
+}
+.subheading{
+	font-family: 'Noto Sans TC', sans-serif!important;
+}
